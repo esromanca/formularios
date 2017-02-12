@@ -1,0 +1,10 @@
+input {
+	margin:10px;
+}
+div {
+	background-color: #aaaaaa;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#mensajes {color: black}
